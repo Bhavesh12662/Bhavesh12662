@@ -1,56 +1,57 @@
-<h1 align="center">Hey there! 👋 I'm Bhavesh Dasari</h1>
-<h3 align="center">💻 BCA Student | Front-End Developer | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Bhavesh Dasari</h1>
+<h3 align="center">🚀 Full Stack Developer | BCA Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+Web+Development;Always+learning+something+new;Let's+build+cool+stuff+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Learner;React+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
-### ✨ About Me
+## 👨‍💻 About Me
 
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**  
-- 🌱 Currently learning **HTML, CSS, JavaScript, Tailwind CSS**  
-- 📘 Exploring the world of **GitHub, open source, and UI/UX**  
-- 🚀 Eager to build real-world web experiences  
-- 💡 Always curious and hungry to learn!
+- 🎓 BCA Student  
+- 💻 Learning Full Stack Development  
+- 🌱 Currently learning **React & Node.js**  
+- 🚀 Building real-world projects  
+- 🔥 Goal: Get internship as Full Stack Developer  
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,git,github" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="mailto:bhaveshdasari67@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bhavesh-dasari-510b1026a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://bhaveshdasari.me/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh12662&show_icons=true&theme=tokyonight" />
 </p>
 
---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh12662&theme=tokyonight" />
+</p>
 
 ---
 
-### 💬 Quote I Like  
-> "Stay curious, keep learning, and build what matters."
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
 
 ---
 
-✨ _Thanks for checking out my profile! Feel free to follow or connect._  
+## ✨ Quote
+
+> "Stay consistent, build projects, and success will follow."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhavesh12662&label=Profile+Views&color=blue&style=flat" />
+</p>
