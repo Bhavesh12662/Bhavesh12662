@@ -1,57 +1,46 @@
-<h1 align="center">🚀 Bhavesh Dasari</h1>
+# 👋 Hi, I'm Bhavesh Dasari
 
-<p align="center">
-  💻 Full Stack Developer | BCA Student
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Learner;Building+Real+Projects" />
+<p align="left">
+  <em>Full Stack Developer | BCA Student</em>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,git,github" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, Tailwind CSS |
+| **Backend** | Node.js |
+| **Tools** | Git, GitHub, VS Code |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 To-Do App  
-✔ Add / Delete Tasks  
-✔ Local Storage  
+### 🔹 To-Do App
+*A task management application featuring local storage persistence.*
+- **Features:** Create, read, and delete tasks.
+- **Tech:** React.js, Tailwind CSS.
 
-### 🔹 Landing Page  
-✔ Responsive Design  
-✔ Tailwind CSS  
+### 🔹 Landing Page
+*A fully responsive landing page built with a mobile-first approach.*
+- **Features:** Responsive design, clean UI/UX.
+- **Tech:** HTML5, CSS3, Tailwind CSS.
 
 ---
 
 ## 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh12662&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh12662&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:bhaveshdasari67@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhavesh12662&color=blue" />
+<p align="left">
+  <a href="mailto:bhaveshdasari67@gmail.com">Email</a> • 
+  <a href="https://linkedin.com/in/your-link-here">LinkedIn</a>
 </p>
