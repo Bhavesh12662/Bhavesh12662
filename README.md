@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:bhaveshdasari67@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/bhavesh-dasari-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Bhavesh12662&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
