@@ -79,7 +79,7 @@ My approach is simple: <b>Learn → Build → Debug → Improve</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </p>
 
