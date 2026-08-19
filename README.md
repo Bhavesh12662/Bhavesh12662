@@ -125,22 +125,7 @@ College project focused on developing an online home appliances e-commerce syste
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh12662&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh12662&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh12662&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bhavesh12662/Bhavesh12662/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh12662&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh12662&theme=tokyonight&hide_border=true" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh12662&layout=compact&theme=tokyonight&hide_border=true" width="50%"/> </p>
 
 ---
 
