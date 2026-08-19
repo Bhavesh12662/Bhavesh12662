@@ -78,9 +78,9 @@ My approach is simple: <b>Learn → Build → Debug → Improve</b>
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react" />
 
 <br><br>
-
-<img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
+<p align="center">
+<img  src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 </p>
 
 ---
